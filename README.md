@@ -1,3 +1,3 @@
 # paginaweb.pet
 
-![](https://github.com/quantum-apps/paginaweb/blob/main/logotipo.png)
+![](https://github.com/DVD131/paginaweb/blob/main/logotipo.png)
